@@ -1,0 +1,19 @@
+{
+  "name": "guiaperguntas",
+  "version": "1.0.0",
+  "description": "uma plataforma de perguntas e respostas, ao estilo yahoo respostas",
+  "main": "server.js",
+  "author": "J. Irineu",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "mysql2": "^2.1.0",
+    "nodemon": "^2.0.2",
+    "sequelize": "^5.21.3"
+  }
+}
