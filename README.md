@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="GuiaPerguntas" title="guiaperguntas" src="https://user-images.githubusercontent.com/33061906/74067492-2920cb00-49d8-11ea-83b3-690a72541145.png" width="250px" />
+    <img alt="GuiaPerguntas" title="guiaperguntas" src="https://user-images.githubusercontent.com/33061906/78624543-43ecb000-7860-11ea-8b05-959a426d8503.png" width="250px" />
 </h1>
 
 <h4 align="center">
